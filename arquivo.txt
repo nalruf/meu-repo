@@ -1,3 +1,6 @@
 Meu primeiro arquivo Git
 Adicionando mais uma linha ao arquivo.
 Mais uma linha para o arquivo
+Olha, que legal, mais uma linha
+De novo, que legal, mais uma linha
+Gostei, mais uma linha
