@@ -8,3 +8,4 @@ Linha adicionada pelo novobranch
 Outra linha adicionada pelo novobranch
 Nova linha adicionada pelo novobranch2
 Outra linha adicionada pelo novobranch2
+Nova alteração
