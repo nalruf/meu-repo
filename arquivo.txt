@@ -4,3 +4,7 @@ Mais uma linha para o arquivo
 Olha, que legal, mais uma linha
 De novo, que legal, mais uma linha
 Gostei, mais uma linha
+Linha adicionada pelo novobranch
+Outra linha adicionada pelo novobranch
+Nova linha adicionada pelo novobranch2
+Outra linha adicionada pelo novobranch2
